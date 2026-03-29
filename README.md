@@ -3,15 +3,15 @@
 This repository contains my daily Python practice programs.
 It serves as a structured record of my learning journey, focusing on improving problem-solving skills and coding proficiency.
 
-# 📂Structure
+# Structure
 
 The content is organized in a day-wise format:
 
-📁 Day-1
+Day-1
 
-📁 Day-2
+Day-2
 
-📁 Day-3
+Day-3
 
 ...
 
@@ -21,7 +21,7 @@ Python practice programs
 
 A dedicated README explaining the concepts and solutions
 
-# 🚀Goals
+# Goals
 
 Strengthen core Python concepts
 
@@ -36,7 +36,7 @@ Prepare for coding interviews and technical assessments
 - Maximum-Python 3.12  
 - VS Code
   
-# 📌Note
+# Note
 Some files may contain multiple programs.
 
 Run one program at a time by commenting out the others.
